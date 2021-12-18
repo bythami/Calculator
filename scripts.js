@@ -93,6 +93,7 @@ const mapaTeclado = {
     '8'         : 'tecla8',
     '9'         : 'tecla9',
     '/'         : 'operadorDividir',
+    'x'         : 'operadorMultiplicar',
     '*'         : 'operadorMultiplicar',
     '-'         : 'operadorSubtrair',
     '+'         : 'operadorAdicionar',
